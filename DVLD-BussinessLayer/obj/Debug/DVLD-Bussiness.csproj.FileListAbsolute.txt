@@ -1,0 +1,9 @@
+C:\Users\Abd-Allah\source\repos\DVLD-Project\DVLD-BussinessLayer\bin\Debug\DVLD-BussinessLayer.dll
+C:\Users\Abd-Allah\source\repos\DVLD-Project\DVLD-BussinessLayer\bin\Debug\DVLD-BussinessLayer.pdb
+C:\Users\Abd-Allah\source\repos\DVLD-Project\DVLD-BussinessLayer\bin\Debug\DVLD-DataAccessLayer.dll
+C:\Users\Abd-Allah\source\repos\DVLD-Project\DVLD-BussinessLayer\bin\Debug\DVLD-DataAccessLayer.pdb
+C:\Users\Abd-Allah\source\repos\DVLD-Project\DVLD-BussinessLayer\obj\Debug\DVLD-Bussiness.csproj.AssemblyReference.cache
+C:\Users\Abd-Allah\source\repos\DVLD-Project\DVLD-BussinessLayer\obj\Debug\DVLD-Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Abd-Allah\source\repos\DVLD-Project\DVLD-BussinessLayer\obj\Debug\DVLD-Bus.692BB9BA.Up2Date
+C:\Users\Abd-Allah\source\repos\DVLD-Project\DVLD-BussinessLayer\obj\Debug\DVLD-BussinessLayer.dll
+C:\Users\Abd-Allah\source\repos\DVLD-Project\DVLD-BussinessLayer\obj\Debug\DVLD-BussinessLayer.pdb
